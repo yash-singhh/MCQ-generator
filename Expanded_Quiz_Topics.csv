@@ -1,0 +1,11 @@
+Question,Answer
+What is the output of `print(2 ** 3)`?,8
+Which of the following is a Python keyword?,All of the above
+Which data type is immutable in Python?,Tuple
+What is the purpose of the `def` keyword in Python?,To define a function
+How do you create a virtual environment in Python?,By using `python -m venv <env_name>`
+What does AI stand for?,Artificial Intelligence
+Which of the following is a popular AI library?,TensorFlow
+What is supervised learning in AI?,Learning with labeled data
+What is the Turing Test used for?,To evaluate a machine's ability to exhibit intelligent behavior
+What is the purpose of deep learning in AI?,To analyze data and recognize patterns using neural networks
